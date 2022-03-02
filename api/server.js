@@ -1,7 +1,5 @@
-const express = require("express"); // eslint-disable-line
-const dotenv = require("dotenv"); // eslint-disable-line
-const cors = require("cors"); // eslint-disable-line
-const axios = require("axios"); //eslint-disable-line
+const express = require("express");
+const cors = require("cors");
 
 const imageRouter = require("./image-router");
 const app = express();
