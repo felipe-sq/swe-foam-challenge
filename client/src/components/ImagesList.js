@@ -100,7 +100,7 @@ const ImagesList = (props) => {
         </span>
         <span className="foam">
           <button className="foam-button" onClick={handleFoamButton}>
-            {"Highlight Foam Images"}
+            {"Toggle Foam Images"}
           </button>
         </span>
       </div>
