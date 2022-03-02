@@ -4,6 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Getting Started
 
+### Quick Video Walkthrough
+- [Loom Video Walkthrough (no sound)](https://www.loom.com/embed/e4b782bc708046ecae0e04e9515ee7d3)
+
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/e4b782bc708046ecae0e04e9515ee7d3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ### Requirements and Setup
 
 - Run NPM install to install all dependencies.
