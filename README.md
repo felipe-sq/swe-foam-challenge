@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Getting Started
+This is a quick summary of the project. It is a React app created with a Node/Express backend API, set up with SQLite3 and Knex for local file storage. The app is designed to fetch images from a database, where a user can review the images (a smaller set of images is shown per page as there are many!). A user can also tag the images with "foam," "non-foam" or leave them uncategorized. Currently, there is an option to toggle all of the images categorized as "foam" and display them at the top of the page, outlined with a read border to differentiate them from the rest. Users can also click forward to the next page(s) or click backward with in-app buttons (no need to use the browser back buttons). 
 
 ### Quick Video Walkthrough
 - [Loom Video Walkthrough (no sound)](https://www.loom.com/embed/e4b782bc708046ecae0e04e9515ee7d3)
 
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/e4b782bc708046ecae0e04e9515ee7d3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### Requirements and Setup
 
